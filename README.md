@@ -1,7 +1,8 @@
-# Zero Robotics GitHub Chrome extension _(zr-github-crx)_
+# Zero Robotics GitHub Chrome extension (zr-github-crx)
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat)](https://github.com/RichardLitt/standard-readme)
+![david dependency manager](https://david-dm.org/jonahweissman/zr-github-crx.svg)
 [![GitHub license](https://img.shields.io/github/license/jonahweissman/zr-github-crx.svg)](https://github.com/jonahweissman/zr-github-crx/blob/master/LICENSE)
 
 > A chrome extension that provides an interface for GitHub on the Zero Robotics IDE
