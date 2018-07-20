@@ -122,7 +122,7 @@ Add the key value to `manifest.json`, then click "Load unpacked extension..." in
 ## Usage
 
 ### For your team
-Once you have a `crx` (or build folder for Windows and macOS users), you can distribute it to members of your team without each of them having to go through this same process.
+Once you have a `crx` (or [build folder for Windows and macOS users](#adding-the-extension-on-windows-and-macos)), you can distribute it to members of your team without each of them having to go through this same process.
 #### Updating
 If a new version is released, you can update your extension with the following code:
 ```shell
